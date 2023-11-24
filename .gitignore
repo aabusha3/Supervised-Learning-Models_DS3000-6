@@ -1,3 +1,9 @@
+*.ipynb
+!aabusha3_Assignment_6.ipynb
+*.csv
+!normal.csv
+!anomalous.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
